@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tescrudmvc", "tescrudmvc\tescrudmvc.csproj", "{8DB90179-6B85-40A0-8D50-D5710BFB81A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{60B53E6D-FBAC-4EF2-BE55-4086E51A4A44}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8DB90179-6B85-40A0-8D50-D5710BFB81A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DB90179-6B85-40A0-8D50-D5710BFB81A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DB90179-6B85-40A0-8D50-D5710BFB81A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DB90179-6B85-40A0-8D50-D5710BFB81A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F75B6336-8351-4B45-BA1C-1076C1297259}
+	EndGlobalSection
+EndGlobal
